@@ -1,0 +1,194 @@
+Person 1 Parent 2 Marriage 1
+Person 4 Parent 5 Marriage 1
+Family 1 Husband 1 Wife 4 Child 7 Child 8
+Person 2 Parent 3 Marriage 2
+Person 3 Parent 4 Marriage 2
+Family 2 Husband 2 Wife 3 Child 13 Child 14 Child 1 Child 15
+Family 3 Husband 9 Wife 10 Child 2 Child 16
+Family 4 Husband 11 Wife 12 Child 3 Child 17
+Person 7 Parent 1 Marriage 0
+Person 8 Parent 1 Marriage 0
+Verify
+Person 13 Parent 2 Marriage 6
+Person 14 Parent 2 Marriage 0
+Family 5 Husband 5 Wife 6 Child 4 Child 19 Child 20
+Person 19 Parent 5 Marriage 7
+Person 20 Parent 5 Marriage 8
+Person 21 Parent 7 Marriage 0
+Person 22 Parent 7 Marriage 0
+Person 16 Parent 3 Marriage 9
+Person 17 Parent 4 Marriage 10
+Person 5 Parent 11 Marriage 5
+Person 6 Parent 12 Marriage 5
+Person 9 Parent 13 Marriage 3
+Family 6 Husband 13 Wife 18 
+Person 10 Parent 14 Marriage 3
+Person 11 Parent 15 Marriage 4
+Person 12 Parent 16 Marriage 4
+Person 18 Parent 0 Marriage 6
+Person 25 Parent 0 Marriage 8
+Person 26 Parent 0 Marriage 9
+Person 27 Parent 0 Marriage 10
+Person 23 Parent 7 Marriage 0
+Person 24 Parent 0 Marriage 7
+Family 7 Husband 19 Wife 24 Child 21 Child 22 Child 23
+Family 8 Husband 25 Wife 20 Child 28
+Family 9 Husband 16 Wife 26 Child 30 Child 31
+Family 10 Husband 27 Wife 17 Child 33 Child 32
+Person 28 Parent 8 Marriage 0
+Person 31 Parent 9 Marriage 0
+Person 32 Parent 10 Marriage 0
+Person 33 Parent 10 Marriage 71
+Person 29 Parent 0 Marriage 17
+Person 34 Parent 17 Marriage 0
+Person 35 Parent 17 Marriage 0
+Person 36 Parent 17 Marriage 0
+Person 37 Parent 0 Marriage 0
+Person 39 Parent 19 Marriage 14
+Person 40 Parent 20 Marriage 14
+Person 41 Parent 21 Marriage 0
+Person 42 Parent 14 Marriage 21
+Family 14 Husband 40 Wife 39 Child 10 Child 42
+Person 43 Parent 0 Marriage 21
+Person 44 Parent 21 Marriage 22
+Person 45 Parent 22 Marriage 23
+Person 46 Parent 0 Marriage 23
+Person 47 Parent 23 Marriage 0
+Family 23 Husband 46 Wife 45 Child 47
+Person 48 Parent 22 Marriage 0
+Person 49 Parent 22 Marriage 24
+Person 50 Parent 0 Marriage 24
+Family 24 Husband 50 Wife 49 
+Family 22 Husband 44 Wife 51 Child 45 Child 48 Child 49
+Person 51 Parent 0 Marriage 22
+Family 21 Husband 43 Wife 42 Child 44 Child 41
+Person 52 Parent 20 Marriage 0
+Person 53 Parent 20 Marriage 0
+Family 20 Husband 54 Wife 0 Child 40 Child 52 Child 53
+Person 54 Parent 0 Marriage 20
+Person 55 Parent 19 Marriage 26
+Person 56 Parent 0 Marriage 26
+Person 57 Parent 0 Marriage 27
+Family 27 Husband 57 Wife 55 
+Person 58 Parent 26 Marriage 28
+Person 59 Parent 0 Marriage 0
+Person 60 Parent 28 Marriage 29
+Person 61 Parent 0 Marriage 29
+Person 62 Parent 29 Marriage 0
+Family 29 Husband 61 Wife 60 Child 62
+Person 63 Parent 28 Marriage 30
+Person 64 Parent 0 Marriage 30
+Person 65 Parent 30 Marriage 0
+Family 30 Husband 63 Wife 64 Child 65
+Person 66 Parent 28 Marriage 31
+Person 67 Parent 0 Marriage 31
+Person 68 Parent 31 Marriage 0
+Person 69 Parent 31 Marriage 0
+Family 31 Husband 67 Wife 66 Child 69 Child 68
+Person 70 Parent 28 Marriage 32
+Person 71 Parent 0 Marriage 32
+Person 72 Parent 32 Marriage 0
+Person 73 Parent 32 Marriage 0
+Family 32 Husband 70 Wife 71 Child 72 Child 73
+Family 28 Husband 59 Wife 58 Child 60 Child 63 Child 66 Child 70
+Person 74 Parent 26 Marriage 33
+Person 75 Parent 0 Marriage 33
+Person 76 Parent 33 Marriage 0
+Family 33 Husband 75 Wife 74 Child 76
+Person 78 Parent 34 Marriage 35
+Person 79 Parent 0 Marriage 35
+Person 80 Parent 35 Marriage 0
+Family 35 Husband 78 Wife 79 Child 80
+Family 36 Husband 78 Wife 0 
+Family 34 Husband 0 Wife 77 Child 78
+Person 81 Parent 26 Marriage 0
+Family 26 Husband 56 Wife 55 Child 58 Child 74 Child 77 Child 81
+Person 82 Parent 19 Marriage 37
+Person 83 Parent 0 Marriage 37
+Person 84 Parent 37 Marriage 38
+Person 85 Parent 0 Marriage 38
+Person 87 Parent 38 Marriage 0
+Person 88 Parent 38 Marriage 40
+Person 89 Parent 0 Marriage 40
+Person 90 Parent 40 Marriage 41
+Person 91 Parent 0 Marriage 41
+Person 92 Parent 41 Marriage 0
+Family 41 Husband 91 Wife 90 Child 92
+Person 93 Parent 40 Marriage 0
+Person 94 Parent 40 Marriage 0
+Family 40 Husband 88 Wife 89 Child 90 Child 94 Child 93
+Person 95 Parent 38 Marriage 42
+Family 43 Husband 0 Wife 0 
+Family 42 Husband 95 Wife 0 
+Family 44 Husband 0 Wife 0 
+Family 45 Husband 0 Wife 0 
+Family 46 Husband 0 Wife 0 
+Family 47 Husband 0 Wife 0 
+Family 48 Husband 0 Wife 0 
+Family 49 Husband 0 Wife 0 
+Family 50 Husband 0 Wife 0 
+Family 38 Husband 84 Wife 85 Child 88 Child 87 Child 95
+Family 52 Husband 0 Wife 0 
+Family 51 Husband 0 Wife 0 
+Family 53 Husband 0 Wife 0 
+Family 54 Husband 0 Wife 0 
+Family 56 Husband 0 Wife 0 
+Family 57 Husband 0 Wife 0 
+Family 58 Husband 0 Wife 0 
+Family 55 Husband 0 Wife 0 
+Family 61 Husband 0 Wife 0 
+Family 59 Husband 0 Wife 0 
+Family 60 Husband 0 Wife 0 
+Family 63 Husband 0 Wife 0 
+Family 64 Husband 0 Wife 0 
+Family 65 Husband 0 Wife 0 
+Family 66 Husband 0 Wife 0 
+Family 67 Husband 0 Wife 0 
+Family 62 Husband 0 Wife 0 
+Family 69 Husband 0 Wife 0 
+Family 68 Husband 0 Wife 0 
+Family 70 Husband 0 Wife 0 
+Family 37 Husband 83 Wife 82 Child 84
+Family 19 Husband 0 Wife 0 Child 82 Child 55 Child 39
+Family 71 Husband 33 Wife 0 
+Family 72 Husband 0 Wife 0 
+Family 75 Husband 0 Wife 0 
+Family 76 Husband 0 Wife 0 
+Family 73 Husband 0 Wife 0 
+Family 79 Husband 0 Wife 0 
+Family 80 Husband 0 Wife 0 
+Family 81 Husband 0 Wife 0 
+Family 77 Husband 0 Wife 0 
+Family 83 Husband 0 Wife 0 
+Family 78 Husband 0 Wife 0 
+Family 84 Husband 0 Wife 0 
+Family 85 Husband 0 Wife 0 
+Family 82 Husband 0 Wife 0 
+Family 74 Husband 0 Wife 0 
+Family 86 Husband 0 Wife 0 
+Family 91 Husband 0 Wife 0 
+Family 90 Husband 0 Wife 0 
+Family 89 Husband 0 Wife 0 
+Family 92 Husband 0 Wife 0 
+Family 95 Husband 0 Wife 0 
+Family 94 Husband 0 Wife 0 
+Family 93 Husband 0 Wife 0 
+Family 87 Husband 0 Wife 0 
+Family 88 Husband 0 Wife 0 
+Family 13 Husband 0 Wife 0 Child 9
+Family 17 Husband 30 Wife 29 Child 34 Child 35 Child 36
+Family 18 Husband 0 Wife 31 Child 38
+Person 38 Parent 18 Marriage 0
+Family 15 Husband 0 Wife 0 Child 11
+Family 16 Husband 0 Wife 0 Child 12
+Family 25 Husband 0 Wife 0 
+Family 11 Husband 0 Wife 0 Child 5
+Family 12 Husband 0 Wife 0 Child 6
+Person 15 Parent 2 Marriage 0
+Person 86 Parent 0 Marriage 0
+Family 39 Husband 0 Wife 0 
+Person 30 Parent 9 Marriage 17
+Person 77 Parent 26 Marriage 34
+Verify
+Relate 1 55
+Relate 95 2

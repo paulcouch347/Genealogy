@@ -1,0 +1,17 @@
+Author: Paul Couch
+Date: 4/28/2020
+Running the Program: To execute the program, compile it using make run which
+	will execute it with data.txt as input. After that it can be executed
+	from the command line as ./genealogy < input-file.txt. If it is run
+	 without a text file redirected as the standard input, the user will
+	 be able to input commands as long as the program is running.
+Purpose: The program takes a text file of formatted comands from standard 
+	input and builds a bipartite graph that represents a family tree.
+	It uses a Breadth-first search algorithim to find the shortest
+	relationship between two people, and it checks the data for
+	consistency, such as if Person 2 has parent Family 3 then Person 2
+	is a child in Family 3.
+Limitations: The program should always be run with a text file passed in
+	from standard input. If a file isn't passed in, the program doesn't
+	have a built-in way to exit.
+Outside Help: None
